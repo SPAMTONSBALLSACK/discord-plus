@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/1082520428972613682/1087557424585642044/spamton_shop.png);
+  --dplus-backdrop: url(https://art.ngfiles.com/images/2505000/2505873_angiespice_spamton-background-thingy.png?f1651895494);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/1082520428972613682/1087557424585642044/spamton_shop.png);
+  --dplus-backdrop: url(https://art.ngfiles.com/images/2505000/2505873_angiespice_spamton-background-thingy.png?f1651895494);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
